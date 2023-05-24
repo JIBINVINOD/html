@@ -1,0 +1,80 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;1,100;1,700;1,900&display=swap');
+  /* font-family: 'Poppins', sans-serif; */
+
+body{ background-image: url('images/img.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1.first{
+  background-color: crimson;
+  border: 2px solid black;
+  margin: 50px 10px 50px 10px;
+  padding: 50px 10px 50px 10px;
+  text-align: center;
+  border-radius: 10px ;
+ 
+
+}
+h2.sec{
+  background-color: crimson;
+  border: 2px solid black;
+  margin: 50px 10px 50px 10px;
+  padding: 50px 10px 50px 10px;
+  text-align: center;
+  border-radius: 10px ;
+  
+}
+h3.third{
+  background-color: crimson;
+  border: 2px solid black;
+  margin: 50px 10px 50px 10px;
+  padding: 50px 10px 50px 10px;
+  text-align: center;
+  border-radius: 10px ;
+ 
+}
+h4.four{
+  background-color: crimson;
+  border: 2px solid black;
+  margin: 50px 10px 50px 10px;
+  padding: 50px 10px 50px 10px;
+  text-align: center;
+  border-radius: 10px ;
+ 
+}
+h5.five{
+  background-color: crimson;
+  border: 2px solid black;
+  margin: 50px 10px 50px 10px;
+  padding: 50px 10px 50px 10px;
+  text-align: center;
+  border-radius: 10px ;
+ 
+}
+h6.six{
+  background-color: crimson;
+  border: 2px solid black;
+  margin: 50px 10px 50px 10px;
+  padding: 50px 10px 50px 10px;
+  text-align: center;
+  border-radius: 10px ;
+ 
+}
+
+.new{
+    margin-top: 60%;
+    height: 100vh;
+    background-color: black;
+}
+.one{
+    margin-top: 20%;
+    height: 50vh;
+    background-color: aqua;
+}
+.two{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 10px rgb(216, 13, 13)
+}
